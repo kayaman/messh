@@ -1,0 +1,5 @@
+
+py3nv_root/*
+**/venv/*
+**/.env
+
